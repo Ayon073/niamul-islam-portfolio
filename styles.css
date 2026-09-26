@@ -317,7 +317,6 @@ button {
   background: var(--green);
   box-shadow: 20px 23px 65px rgb(32 74 59 / 15%);
   color: white;
-  transform: rotate(-5deg);
 }
 
 .profile-photo {
